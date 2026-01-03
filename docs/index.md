@@ -1,17 +1,23 @@
 # Makers Studio Docs
 
-- 만들기를 위한 기록들
+아이디나인의 공작 프로젝트 기록들
 
-## Commands
+* Items : 부품들을 사용하기 위한 기본 설정 모음
+* Concepts : 각종 부품들을 사용하기 위한 기본 코드 모음
+* Projects : 여러 부품과 컨셉들을 모아 결과물을 만든다.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Items
+* AC Servo Motor
+* DC Servo Motor (RC)
+* Stepping Motor
+* Geared Stepping Motor
+* 초음파 센서
+* 
+## Concepts
+* 사람 인식 - 2.4G Presence Sensor
+* RC Receiver Read
+* DMX Read
+* Artnet Read
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Projects
+* The Weight, 2025
