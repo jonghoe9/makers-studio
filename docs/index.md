@@ -6,6 +6,9 @@
 * Concepts : 각종 부품들을 사용하기 위한 기본 코드 모음
 * Projects : 여러 부품과 컨셉들을 모아 결과물을 만든다.
 
+## Projects
+* The Weight, 2025
+
 ## Items
 * AC Servo Motor
 * DC Servo Motor (RC)
@@ -19,5 +22,3 @@
 * DMX Read
 * Artnet Read
 
-## Projects
-* The Weight, 2025
