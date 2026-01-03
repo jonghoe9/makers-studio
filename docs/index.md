@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Makers Studio Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- 만들기를 위한 기록들
 
 ## Commands
 
