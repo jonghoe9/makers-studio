@@ -1,4 +1,4 @@
-# ESP32 Wifi Setup
+# ESP32 Wifi WebServer Setup
 
 
 ```cpp title="esp32_wifi_webserver.inl" linenums="1" hl_lines="1"
