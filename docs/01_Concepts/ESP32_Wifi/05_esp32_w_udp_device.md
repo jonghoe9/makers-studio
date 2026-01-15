@@ -1,8 +1,9 @@
 # ESP32 WIFI UDP Device
 
-- 장치에서 Wifi 접속, DHCP로 IP 받음
+- 장치에서 Wifi 접속, DHCP로 IP 받음 (broad_port:30000)
 - 브로드캐스트 주소로 장치 정보 보내기 (1초 마다 보냄)
-- 서버에서 장치를 등록하고, 서버의 IP 주소와 서버의 Listen 포트를 장치의 Listen 포트로 전송함
+- 장치는 브로드캐스트로 발신자 정보를 받아, 장치의 IP를 답신함
+- 서버는 장치 정보를 받아 장치를 등록함
 
 ```cpp title="esp32_wifi_udp_device.ino" linenums="1" hl_lines="13"
 #include <WiFi.h>
